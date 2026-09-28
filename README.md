@@ -49,6 +49,6 @@ This repository is the **official home for Artemis releases and downloads**, inc
 
 [安装说明、支持范围与更新源 / Installation, support and update source](office-runtime/README.md)
 
-Documents、Presentations、Spreadsheets 共用一个可选 Office 组件。当前提供 macOS Apple Silicon 包，需要带有 Office 工作台的客户端。
+Documents、Presentations、Spreadsheets 共用一个可选 Office 组件。当前提供 macOS Apple Silicon（arm64）和 Windows x64 包，需要带有 Office 工作台的客户端。
 
-Documents, Presentations and Spreadsheets share one optional Office component. A macOS Apple Silicon package is available for Office-enabled clients.
+Documents, Presentations and Spreadsheets share one optional Office component. Packages for macOS Apple Silicon (arm64) and Windows x64 are available for Office-enabled clients.
